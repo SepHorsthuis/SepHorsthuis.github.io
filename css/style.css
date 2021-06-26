@@ -135,13 +135,15 @@ ul {
 }
 .internship_content figure img {
   margin: 5px 5px 5px 5px;
-  width: calc(100vw/5);
+  width: auto;
   height: auto;
+  max-width: 30vw;
+  max-height: 30vh;
 }
-.internship_content .intern_cartheory img{
+/* .internship_content .intern_cartheory img{
   height: calc(100vh/2);
   width: auto;
-}
+} */
 
 /* ------------------------------------------------ */
 *{  
