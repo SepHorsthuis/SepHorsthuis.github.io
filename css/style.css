@@ -101,6 +101,7 @@ li{
 .content section aside img {
   max-width: 600px;
   max-height: 500px;    
+
 }
 .projects img {
   border: 10px  solid rgb(11, 10, 92);
@@ -136,7 +137,7 @@ ul {
   margin: 5px 5px 5px 5px;
   width: auto;
   height: auto;
-  max-width: 30w;
+  max-width: 30vw;
   max-height: 30vh;
 }
 
