@@ -134,7 +134,10 @@ ul {
 }
 .internship_content figure img {
   margin: 5px 5px 5px 5px;
-  width: 30%;
+  width: auto;
+  height: auto;
+  max-width: 30w;
+  max-height: 30vh;
 }
 
 /* ------------------------------------------------ */
